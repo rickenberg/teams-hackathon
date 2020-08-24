@@ -6,15 +6,6 @@ Teams overview
 Teams tab using Graph API
 Graph overview
 
-Tenant creator
-berschultz@hotmail.com
-
-Tenant
-berschultz.onmicrosoft.com
-admin@berschultz.onmicrosoft.com
-other users password
-admin.microsoft.com
-
 Kør lokalt
 c:\tools\ngrok.exe http 3007 -region eu
 https://67c612fc8d78.eu.ngrok.io
