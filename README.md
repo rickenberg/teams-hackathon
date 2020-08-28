@@ -34,7 +34,7 @@ In this demo we create your first Teams app.
 4. Build Teams manifest: `gulp manifest`
 5. `gulp build`
 6. `gulp serve`
-7. Upload the manifest from `packages\...zip` to your developer tenant with app studio
+7. Upload the manifest from `package\*.zip` to your developer tenant with app studio
 8. Deploy app to a Team with app studio
 
 ## Microsoft Graph tour
@@ -53,7 +53,7 @@ In this demo we start off with a Teams app that I have prepared.
 6. Build Teams manifest: `gulp manifest`
 7. `gulp build`
 8. `gulp serve`
-9. Upload the manifest from `packages\...zip` to your developer tenant with app studio
+9. Upload the manifest from `package\*.zip` to your developer tenant with app studio
 10. Deploy app to a Team with app studio
 
 I have adapted this demo based on the source code behind this great [article](https://www.wictorwilen.se/blog/microsoft-teams-tabs-sso-and-microsoft-graph-the-on-behalf-of-blog-post/) by Wictor Wilen.
