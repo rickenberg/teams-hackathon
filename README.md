@@ -39,7 +39,7 @@ In this demo we create your first Teams app.
 
 ## Microsoft Graph tour
 
-Quick walk-through of my slide deck.
+Quick walk-through of my [slide deck](graph-tour/Microsoft-Graph-Intro.pdf).
 
 ## SSO tab demo
 
