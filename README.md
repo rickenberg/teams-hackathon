@@ -56,4 +56,4 @@ In this demo we start off with a Teams app that I have prepared.
 9. Upload the manifest from `package\*.zip` to your developer tenant with app studio
 10. Deploy app to a Team with app studio
 
-I have adapted this demo based on the source code behind this great [article](https://www.wictorwilen.se/blog/microsoft-teams-tabs-sso-and-microsoft-graph-the-on-behalf-of-blog-post/) by Wictor Wilen.
+I have adapted this demo based on the source code behind this great [article](https://www.wictorwilen.se/blog/microsoft-teams-tabs-sso-and-microsoft-graph-the-on-behalf-of-blog-post/) by Wictor Wilen. The key point is that the `microsoftTeams.authentication.getAuthToken` returns an identity token and not an access token. Using the On-Behalf-Of OAuth flow we exchange the identity token into an access token.
